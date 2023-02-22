@@ -13,7 +13,7 @@ int main(void)
 	while (i < 50)
 	{
 	if (i == 0)
-	print("%ld", j);
+	printf("%ld", j);
 	else if (i == 1)
 	printf(", %ld", k);
 	else
@@ -24,6 +24,6 @@ int main(void)
 		}
 		++i;
 	}
-	print("\n");
+	printf("\n");
 	return (0);
 }
