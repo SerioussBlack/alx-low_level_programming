@@ -2,7 +2,7 @@
 #define MAIN_H
 
 /** This a header file containing declarations
- * for prototype functions defined in the 0x06-more-functions_nested_loops
+ * for prototype functions defined in the 0x06-more-functions_nested_loop
  */
 
 int _putchar(char c);
